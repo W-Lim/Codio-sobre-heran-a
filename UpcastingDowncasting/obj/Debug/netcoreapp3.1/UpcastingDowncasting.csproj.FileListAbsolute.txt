@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\pc\Downloads\Curso c#\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache
